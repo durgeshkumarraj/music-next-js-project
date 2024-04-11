@@ -1,0 +1,71 @@
+{
+  "courses":[
+    {
+    "id":1,
+    "tittle": "Guitar Fundamentals",
+    "slug":" Guitar-Fundamentals",
+    "descriptions":"Learn the basic of playing Guitar our comprehensive beginer's courses.",
+    "price":99.99,
+    "instructor":"jonh Doe",
+    "isFeatured":true,
+    "image":"/courses/guitar.jpg"
+
+
+    },
+    {
+      "id":2,
+      "tittle": "Piano for Beginners",
+      "slug":" piano-for-Beginners",
+      "descriptions":"Start your musical journey with foundational piano skills by expert",
+      "price":99.99,
+      "instructor":"jonh Doe",
+      "isFeatured":true,
+      "image":"/courses/guitar.jpg"
+
+    },
+    {
+      "id":3,
+      "tittle": "Advanced Vocal Techniques",
+      "slug":" Advanced Vocal Techniques",
+      "descriptions":"Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+      "price":119.99,
+      "instructor":"Emily johnsor",
+      "isFeatured":true,
+      "image":" /courses/vocalist.jpg"
+    },
+    {
+    "id":4,
+    "tittle": "Drumming Mastery",
+    "slug":" Drumming Mastery",
+    "descriptions":"Master the drums with our comprehensive courses covering all skill levels.",
+    "price":129.99,
+    "instructor":"Mike Brown",
+    "isFeatured":true,
+    "image":" /courses/vocalist.jpg"
+    },
+    {
+
+      "id":5,
+    "tittle": "Jazz Improvisation",
+    "slug":" Jazz Improvisation",
+    "descriptions":"Learn the art of jazz improvisation with this courses designed for all level.",
+    "price":139.99,
+    "instructor":"Chris Davis",
+    "isFeatured":true,
+    "image":" /courses/jazz.jpg"
+    },
+    {
+      "id":6,
+      "tittle": "Jazz Improvisation",
+      "slug":" Jazz Improvisation",
+      "descriptions":"Learn the art of jazz improvisation with this courses designed for all level.",
+      "price":139.99,
+      "instructor":"Chris Davis",
+      "isFeatured":true,
+      "image":" /courses/jazz.jpg"
+
+
+    }
+
+  ]
+}
